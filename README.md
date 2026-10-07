@@ -7,6 +7,8 @@ The application is simplified and deliberately contains bugs.
 ## All my cool badges
 [![Java CI with Maven](https://github.com/PermaFreez/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/PermaFreez/se-lab/actions/workflows/maven.yml)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Getting started
 
 - The project is implemented in Java 21.
